@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuki5155.github.io/physics-video-generator/sitemap.xml
